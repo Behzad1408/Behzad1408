@@ -1,4 +1,5 @@
-<h4 align="center">I like making things, I'm a fairly curious person.</h4>
+<h4>I like making things, I'm a fairly curious person.</h4>
+
 
 <ul>
     <li>👋 Hi, I’m <strong>Behzad Valiani</strong>.</li>
