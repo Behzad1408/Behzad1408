@@ -1,5 +1,11 @@
-### Hi there 👋
+<h4 align="center">I like making things, I'm a fairly curious person.</h4>
 
+<ul>
+    <li>👋 Hi, I’m <strong>Behzad Valiani</strong>.</li>
+    <li>👀 I’m interested in everything regarding FrontEnd</li>
+    <li>🌱 I’m currently learning FrontEnd</li>
+    <li>📫 You can reach me via Linkedin [ <em>linkedin.com/in/behzadvaliani/</em> ] or Email [ <em>bh.valiani@gmail.com</em> ]</li>
+</ul>
 <!--
 **Behzad1408/Behzad1408** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +19,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
