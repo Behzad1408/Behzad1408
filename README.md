@@ -5,7 +5,7 @@
     <li>👋 Hi, I’m <strong>Behzad Valiani</strong>.</li>
     <li>👀 I’m interested in everything related to FrontEnd</li>
     <li>🌱 I’m currently learning FrontEnd</li>
-    <li>📫 You can reach me via Linkedin [ <em>linkedin.com/in/behzadvaliani/</em> ] or Email [ <em>bh.valiani@gmail.com</em> ]</li>
+    <li>📫 You can reach me via Linkedin [ <em>linkedin.com/in/behzadvaliani/</em> ] or Email [ <em>bhz.valiani@gmail.com</em> ]</li>
 </ul>
 <!--
 **Behzad1408/Behzad1408** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
