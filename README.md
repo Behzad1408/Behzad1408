@@ -4,7 +4,7 @@
 <ul>
     <li>👋 Hi, I’m <strong>Behzad Valiani</strong>.</li>
     <li>👀 I’m interested in everything related to FrontEnd</li>
-    <li>🌱 Currently, alongside Front-End development, I'm learning C#/ASP.NET Core/Angular.
+    <li>🌱 Currently, alongside Front-End development, I'm learning C#/ASP.NET Core/Angular JS.
     <li>📫 You can reach me via Linkedin [ <em>linkedin.com/in/behzadvaliani/</em> ] or Email [ <em>bhz.valiani@gmail.com</em> ]</li>
 </ul>
 <!--
