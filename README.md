@@ -1,10 +1,10 @@
-<h4>I like making things, I'm a fairly curious person.</h4>
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> I like making things, I'm a fairly curious person.</h2>
 
 
 <ul>
     <li>👋 Hi, I’m <strong>Behzad Valiani</strong>.</li>
     <li>👀 I’m interested in everything related to FrontEnd</li>
-    <li>🌱 I’m currently learning FrontEnd</li>
+    <li>🌱 Currently, alongside Front-End development, I'm learning C#/ASP.NET Core/Angular.
     <li>📫 You can reach me via Linkedin [ <em>linkedin.com/in/behzadvaliani/</em> ] or Email [ <em>bhz.valiani@gmail.com</em> ]</li>
 </ul>
 <!--
